@@ -50,7 +50,7 @@ root.render(
   </div>
   </div> */}
 
-/home/meowpig/Fotmob/fotmob/public
+
 
 
   {/* LEFt coloumn of TOP LEAGUES */}
